@@ -66,4 +66,4 @@
                smoothing=0.001)
   ```
 
-微信链接：(微信公众号)[https://mp.weixin.qq.com/s/KhVSc9vFI18_k3TVrdvXQQ]
+微信链接：[微信公众号](https://mp.weixin.qq.com/s/KhVSc9vFI18_k3TVrdvXQQ)
